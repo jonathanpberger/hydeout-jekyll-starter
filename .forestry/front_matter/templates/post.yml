@@ -45,4 +45,4 @@ fields:
   description: Active if you want to allow comments (this option is only available
     if you've set Disqus up in your Site Configuration)
 pages:
-- _posts/we-re-delighted-to-announce-our-investment-in-hamazon-farms.md
+- _posts/2020-08-06-we-re-delighted-to-announce-our-investment-in-hamazon-farms.md
